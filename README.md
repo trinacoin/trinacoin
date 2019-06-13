@@ -1,7 +1,7 @@
 Trinacoin integration/staging tree
 ================================
 
-http://www.trinacoin.org
+trinacoinproject@gmail.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
@@ -18,7 +18,7 @@ Trinacoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm
  - 2160 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Trinacoin client sofware, see http://www.trinacoin.org.
+the Trinacoin client sofware, ask trinacoinproject@gmail.com.
 
 License
 -------
