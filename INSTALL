@@ -1,0 +1,9 @@
+Building Trinacoin
+
+See doc/readme-qt.rst for instructions on building Trinacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Trinacoin.
+
+See doc/build-*.txt for instructions on building trinacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Trinacoin.
