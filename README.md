@@ -26,8 +26,15 @@ License
 Trinacoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
-Installation
+
+Download Windows Binaries
 ------------
+
+https://github.com/trinacoin/trinacoin/releases/download/v1.0/trinacoin-0.8.7.5-win32-setup.exe
+
+
+Installation (Linux)
+--------------------
 
 git clone "https://github.com/trinacoin/trinacoin.git"
 
