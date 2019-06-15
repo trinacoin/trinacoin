@@ -30,7 +30,7 @@ information or see http://opensource.org/licenses/MIT.
 Download Windows Binaries
 ------------
 
-https://github.com/trinacoin/trinacoin/releases/download/v1.0/trinacoin-0.8.7.5-win32-setup.exe
+https://github.com/trinacoin/trinacoin/releases/download/v1.1/trinacoin-v1.1-0.8.7.5-win32-setup.exe
 
 
 Installation (Linux)
