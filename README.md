@@ -1,7 +1,9 @@
 Trinacoin integration/staging tree
 ================================
 
-trinacoinproject@gmail.com
+Annuncement https://bitcointalk.org/index.php?topic=5156473
+
+Email: trinacoinproject@gmail.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
